@@ -92,3 +92,6 @@ The results show that white and black are different but all other configurations
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+The data presented in this shows that most whites and others are in favor of capital punishment while blacks are not.  However the population of others is less favoravable towards it than the whites are. There was not enough data to suffciently determine if the the tohers and blacks were different enough.
+
