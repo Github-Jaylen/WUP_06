@@ -69,7 +69,13 @@ This graph shows that more white people are in favor of capital punishment than 
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
+```{r}
+table1 <- xtabs(~race + cappun, data=mydata)
+rowPerc(table1)
+colPerc(table1)
+```
 
+65% of white people are in favor of capital punishment while 35% are against it.  43% of black people are for capital punishment while 57% were against it.  55% of others were for capital punishment while 45% were against it.  Between these three categories more people were for captial punishment than against it.
 
 
 ## Now with More data
