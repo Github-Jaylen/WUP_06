@@ -106,8 +106,8 @@ When looking at all the data in the Fisher XY test it provided the additional in
 
 # Discussion and Conclusion
 
-
-
+  
+When looking at all the data in the Fisher XY test it provided the additional information that all the races had differeing opinions on capital punishment. This likely means if there were a more balanced numver of the different races that the results may be closer to even than skewed in favor od capital puinishment.
 
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
